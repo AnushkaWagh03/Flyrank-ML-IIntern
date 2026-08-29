@@ -915,4 +915,4 @@ This produces a much more controlled and useful interaction with an LLM.
 
 The main lesson from this experiment is:
 
-> **A good prompt does not simply ask the model to perform a task. It provides the model with the context, examples, structure, constraints, and process needed to perform that task reliably.**x8s
+> **A good prompt does not simply ask the model to perform a task. It provides the model with the context, examples, structure, constraints, and process needed to perform that task reliably.**
